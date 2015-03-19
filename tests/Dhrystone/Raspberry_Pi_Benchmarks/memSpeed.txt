@@ -1,0 +1,48 @@
+ #####################################################
+
+     Memory Reading Speed Test 32 Bit Version 4 by Roy Longbottom
+
+               Start of test Sat Oct  4 17:10:15 2014
+
+  Memory   x[m]=x[m]+s*y[m] Int+   x[m]=x[m]+y[m]         x[m]=y[m]
+  KBytes    Dble   Sngl  Int32   Dble   Sngl  Int32   Dble   Sngl  Int32
+    Used    MB/S   MB/S   MB/S   MB/S   MB/S   MB/S   MB/S   MB/S   MB/S
+
+       8     568    682    853    602    731   1015   1230    511    727
+      16     538    640    787    602    731    984    999    511    727
+      32     310    269    319    292    269    353    984    465    571
+      64     284    255    292    269    249    301    341    284    301
+     128     176    162    179    170    165    186    284    256    255
+     256     144    134    144    140    134    150    165    150    165
+     512     140    132    142    138    132    150    124    111    119
+    1024     144    132    142    142    131    148    128    113    119
+    2048     146    134    144    138    132    148    127    113    121
+    4096     144    132    144    138    136    148    128    113    124
+    8192     144    132    146    140    132    151    132    117    126
+
+                End of test Sat Oct  4 17:11:48 2014
+
+SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+processor	: 0
+model name	: ARMv6-compatible processor rev 7 (v6l)
+BogoMIPS	: 2.00
+Features	: swp half thumb fastmult vfp edsp java tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xb76
+CPU revision	: 7
+
+Hardware	: BCM2708
+Revision	: 000e
+Serial		: 00000000696beb12
+ 
+
+From File /proc/version
+Linux version 3.10.25+ (dc4@dc4-arm-01) (gcc version 4.7.2 20120731 (prerelease) (crosstool-NG linaro-1.13.1+bzr2458 - Linaro GCC 2012.08) ) #622 PREEMPT Fri Jan 3 18:41:00 GMT 2014
+ 
+
+Additional information - 
+

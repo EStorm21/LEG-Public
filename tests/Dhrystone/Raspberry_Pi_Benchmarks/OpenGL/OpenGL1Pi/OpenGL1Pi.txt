@@ -1,0 +1,122 @@
+
+##############################################
+
+ Raspberry Pi OpenGL ES Benchmark 1.1, Thu Jun 13 16:04:35 2013
+
+           --------- Frames Per Second --------
+ Triangles WireFrame   Shaded  Shaded+ Textured
+
+    900+     100.22    99.97    86.96    78.91
+   9000+      40.04    39.85    29.94    23.28
+  18000+      20.27    20.24    17.32    12.82
+  36000+      10.19    10.18     9.38     6.88
+
+      Screen Pixels 1280 Wide 720 High
+
+      End Time Thu Jun 13 16:07:16 2013
+
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ Processor	: ARMv6-compatible processor rev 7 (v6l)
+BogoMIPS	: 464.48
+Features	: swp half thumb fastmult vfp edsp java tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xb76
+CPU revision	: 7
+
+Hardware	: BCM2708
+Revision	: 000d
+Serial		: 00000000db690cb4
+ 
+
+ From File /proc/version
+ Linux version 3.6.11+ (dc4@dc4-arm-01) (gcc version 4.7.2 20120731 (prerelease) (crosstool-NG linaro-1.13.1+bzr2458 - Linaro GCC 2012.08) ) #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013
+ 
+
+Additional information - none
+
+
+##############################################
+
+ Raspberry Pi OpenGL ES Benchmark 1.1, Thu Jun 13 16:12:49 2013
+
+           --------- Frames Per Second --------
+ Triangles WireFrame   Shaded  Shaded+ Textured
+
+    900+     100.13   100.02    87.81    79.05
+   9000+      40.46    40.24    30.19    23.22
+  18000+      20.54    20.41    17.47    12.82
+  36000+      10.30    10.28     9.48     6.84
+
+      Screen Pixels 1280 Wide 720 High
+
+      End Time Thu Jun 13 16:15:30 2013
+
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ Processor	: ARMv6-compatible processor rev 7 (v6l)
+BogoMIPS	: 464.48
+Features	: swp half thumb fastmult vfp edsp java tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xb76
+CPU revision	: 7
+
+Hardware	: BCM2708
+Revision	: 000d
+Serial		: 00000000db690cb4
+ 
+
+ From File /proc/version
+ Linux version 3.6.11+ (dc4@dc4-arm-01) (gcc version 4.7.2 20120731 (prerelease) (crosstool-NG linaro-1.13.1+bzr2458 - Linaro GCC 2012.08) ) #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013
+ 
+
+Additional information - overclocked 1000 MHz
+
+
+##############################################
+ RELIABILITY TEST
+##############################################
+
+ Raspberry Pi OpenGL ES Benchmark 1.1, Wed Jun 19 12:54:35 2013
+
+ Reliability Mode 16 Tests of 38 Seconds
+
+           --------- Frames Per Second --------
+ Triangles            All Textured
+
+  36000+       4.96     5.62     6.35     5.52
+  36000+       6.01     6.21     5.41     6.31
+  36000+       6.01     5.47     6.38     5.73
+  36000+       5.79     6.36     5.56     5.96
+
+      Screen Pixels 1920 Wide 1080 High
+
+      End Time Wed Jun 19 13:04:46 2013
+
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ Processor	: ARMv6-compatible processor rev 7 (v6l)
+BogoMIPS	: 464.48
+Features	: swp half thumb fastmult vfp edsp java tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xb76
+CPU revision	: 7
+
+Hardware	: BCM2708
+Revision	: 000d
+Serial		: 00000000db690cb4
+ 
+
+ From File /proc/version
+ Linux version 3.6.11+ (dc4@dc4-arm-01) (gcc version 4.7.2 20120731 (prerelease) (crosstool-NG linaro-1.13.1+bzr2458 - Linaro GCC 2012.08) ) #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013
+ 
+

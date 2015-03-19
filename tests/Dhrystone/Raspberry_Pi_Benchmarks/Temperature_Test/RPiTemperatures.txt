@@ -1,0 +1,28 @@
+ Temperature Measurement - Start at Tue Oct 15 12:29:32 2013
+
+          Using 10 samples at 1 second intervals
+
+ arm_freq=800
+ core_freq=250
+ sdram_freq=400
+ over_voltage=0
+
+ Seconds
+    0.0  temp=49.8'C
+    1.0  temp=50.3'C
+    2.0  temp=50.8'C
+    3.1  temp=49.8'C
+    4.2  temp=50.3'C
+    5.3  temp=49.8'C
+    6.3  temp=50.3'C
+    7.5  temp=50.8'C
+    8.5  temp=49.8'C
+    9.6  temp=50.8'C
+   10.6  temp=50.8'C
+
+ Temperature Measurement - End at   Tue Oct 15 12:29:43 2013
+
+ arm_freq=800
+ core_freq=250
+ sdram_freq=400
+ over_voltage=0
